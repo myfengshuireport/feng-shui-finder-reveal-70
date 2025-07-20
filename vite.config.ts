@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/feng-shui-discovery-hub/", // ← ADD THIS LINE
+  base: "/feng-shui-finder-reveal-70/", // ← ADD THIS LINE
   server: {
     host: "::",
     port: 8080,
